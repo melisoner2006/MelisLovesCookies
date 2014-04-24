@@ -1,0 +1,33 @@
+body{
+background-color: #A8A8A8;
+}
+
+#one{
+	height: 100px;
+	width: 200px;
+}
+#two{
+	height: 100px;
+	width: 200px;
+}
+#three{
+	height: 100px;
+	width: 200px;
+}
+
+div{
+	
+	background-color: #D8D8D8;
+        border: 1px solid white;
+	border-radius: 5px;
+	margin:auto;
+
+}
+
+.profile {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display:inline-block;
+}
